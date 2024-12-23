@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexojica
-- 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on games or full-stack apps
+- 🌱 Graduated Bsc Computer Science and Engineering, currently pursuing MSc Data Science and Artificial Intelligence Technology
+- 💞️ Immense passion and curiosity for Data Science and Machine Learning
 - 📫 How to reach me? It's simple, at aojica65@gmail.com
 
 <!---
