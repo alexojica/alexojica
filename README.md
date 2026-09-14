@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexojica
-- 🌱 Graduated Bsc Computer Science and Engineering and MSc Data Science and Artificial Intelligence Technology
+- 🌱 Graduated from TU Delft with Bsc in Computer Science and Engineering and MSc in Data Science and Artificial Intelligence Technology
 - Currently SWE @ Google
 - 💞️ Immense passion and curiosity for Machine Learning Research
 - 📫 How to reach me? It's simple, at aojica65@gmail.com
